@@ -46,7 +46,7 @@ function App() {
             <ul class="conteudoPrincipal-cursos">
               <li class="conteudoPrincipal-cursos-link">
                 <img class="curso" src={Curso1} alt=""></img>
-                <p href="#">Java</p
+                <p href="#">Java</p>
               </li>
 
               <li class="conteudoPrincipal-cursos-link">
